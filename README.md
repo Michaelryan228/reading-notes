@@ -13,3 +13,8 @@ I believe growth mindset is a state of mind that allows for adaptibility.  You n
 * **Learn from critcism**
 * **Find lessons and insiration in the success of others**
 * **All of this will give you a greater sense of free will**
+
+#### Rabindranth Tagore
+Was a poet who once said
+>The one who plants trees, knowing that he will never sit in their shade, has atleast started to understand the meaning of life.
+So dont forget things take time and if youre lucky the things you do in life might help someone else in the *future.*

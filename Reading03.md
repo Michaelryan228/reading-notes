@@ -88,3 +88,21 @@
 
 ## Committing a File
 
+* After staging on eor multiple files, commit the changes and record a commit message
+* $ git commit -m "made change x,y,z"
+* This step has committed changes for the file or files
+* You can have one commit message for multiple files
+
+## Committing All Changes
+
+* $ git commit -a
+* This command commits a snapshot of all mods to tracked files in working directory
+
+## Pushing Changes
+
+* Push changes to remote repository
+* $ git push origin master
+* This command pushes changes from local "master" branch to remote repo named "origin"
+* Cloned repo, Git will automatically give the name "origin" to the server from which you cloned and the name "master" to your local repo
+* these names can be changed by the user
+

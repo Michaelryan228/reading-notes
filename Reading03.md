@@ -105,4 +105,3 @@
 * This command pushes changes from local "master" branch to remote repo named "origin"
 * Cloned repo, Git will automatically give the name "origin" to the server from which you cloned and the name "master" to your local repo
 * these names can be changed by the user
-

@@ -63,4 +63,28 @@
 
 * Flagged a files changed version to be stored in next snapshot
 
-#### Words
+### Check File Status
+
+* Determine state of file
+* git status command
+* Indicates what branch you're on
+* Working directory clean meaning files have tracked or modified status
+
+### Tracking and Staging a New File
+
+#### Single File
+
+* Track one file only by using following format
+* git add filename
+
+#### All Files
+
+* Track all files in repository using following command
+* $ git add *
+* After using these commands files are tracked and stagged for committing
+* After adding new file called EXAMPLE, you will see info about changes to be committed when using git status command
+* $ git status 
+* This info tells us there are changes to be committed and the file has been staged
+
+### Committing a File
+

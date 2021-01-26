@@ -83,7 +83,7 @@
 * $ git add *
 * After using these commands files are tracked and stagged for committing
 * After adding new file called EXAMPLE, you will see info about changes to be committed when using git status command
-* $ git status 
+* $ git status
 * This info tells us there are changes to be committed and the file has been staged
 
 ## Committing a File

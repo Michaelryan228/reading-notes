@@ -21,3 +21,4 @@ So dont forget things take time and if youre lucky the things you do in life mig
 
 [Reading 02](./reading02.md)
 [Reading 03](./Reading03.md)
+[Reading 04](./class04.md)

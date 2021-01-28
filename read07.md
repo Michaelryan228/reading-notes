@@ -10,7 +10,7 @@
 ## Modify Content
 
 * You can use Javascript to add elements, attributes, and text to the page, or remove them.  For example:
-* Add a paragraph of text after the first <h1> element
+* Add a paragraph of text after the first h1 element
 * Change the value of class attributes to trigger new CSS rules for those elements
 * Change the size or position of an <img> element
 

@@ -23,8 +23,8 @@ So dont forget things take time and if youre lucky the things you do in life mig
 
 ### 102 Notes
 
-[Reading 02](./Code-102-Notes/reading02.md)
-[Reading 03](./Code-102-Notes/Reading03.md)
-[Reading 04](./Code-102-Notes/class04.md)
+* [Reading 02](./Code-102-Notes/reading02.md)
+* [Reading 03](./Code-102-Notes/Reading03.md)
+* [Reading 04](./Code-102-Notes/class04.md)
 
 ### 201 Notes

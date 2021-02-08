@@ -19,6 +19,12 @@ Was a poet who once said
 >The one who plants trees, knowing that he will never sit in their shade, has atleast started to understand the meaning of life.
 So dont forget things take time and if youre lucky the things you do in life might help someone else in the *future.*
 
-[Reading 02](.Code-102-Notes/reading02.md)
-[Reading 03](./Reading03.md)
-[Reading 04](./class04.md)
+## Table of Contents
+
+### 102 Notes
+
+[Reading 02](./Code-102-Notes/reading02.md)
+[Reading 03](./Code-102-Notes/Reading03.md)
+[Reading 04](./Code-102-Notes/class04.md)
+
+### 201 Notes

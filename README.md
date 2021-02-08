@@ -21,7 +21,7 @@ So dont forget things take time and if youre lucky the things you do in life mig
 
 ## Table of Contents
 
-### 102 Notes
+### 102 Reading Notes
 
 * [Reading 02](./Code-102-Notes/reading02.md)
 * [Reading 03](./Code-102-Notes/Reading03.md)
@@ -32,4 +32,4 @@ So dont forget things take time and if youre lucky the things you do in life mig
 * [Reading 07](./Code-102-Notes/read07.md)
 * [Reading 08](./Code-102-Notes/read08.md)
 
-### 201 Notes
+### 201 Reading Notes

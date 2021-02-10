@@ -40,7 +40,7 @@
 
 * abbr
 
-## Citations and Definitions 
+## Citations and Definitions
 
 * cite
 * dfn

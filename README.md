@@ -37,3 +37,7 @@ So dont forget things take time and if youre lucky the things you do in life mig
 * [Reading 01](./Code-201-Notes/read01.md)
 * [Reading 02](./Code-201-Notes/read02.md)
 * [Reading 03](./Code-201-Notes/read03.md)
+
+### 301 Reading Notes
+
+### 401 Reading Notes

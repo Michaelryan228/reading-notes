@@ -1,3 +1,35 @@
+
+bool ContainsValue(IEnumerable<string> elements, string value)
+{
+    foreach (var element in elements)
+    {
+        if (element == value) return true; 
+    }     
+    return false; 
+}
+
+bool ContainsDuplicates(IList<string> elements)
+{
+    for (var outer = 0; outer < elements.Count; outer++) 
+    {
+        for (var inner = 0; inner < elements.Count; inner++) 
+        { 
+            // Don't compare with self 
+            if (outer == inner) continue;             
+            
+            if (elements[outer] == elements[inner]) return true; 
+        }
+    }    
+    return false;
+}
+
+int Fibonacci(int number)
+{
+    if (number <= 1) return number;
+       
+    return Fibonacci(number - 2) + Fibonacci(number - 1); 
+}
+
 Over the next 10 weeks of this course, you’ll learn far more than most people learn in 2 years of study in a University setting about software development, web app development, best practices, and the Python language overall. That accelerated learning environment is great, but it does come at a price that is felt in all spheres of life: physical, mental, and emotional.
 
 That price is pain, the pain of growth.
